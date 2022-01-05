@@ -7,6 +7,8 @@ h1{
     font-weight: 900;
     
 }
+/* <!-- top-section start --> */
+
 .color-h1{
     color: rgb(240, 153, 39);
 }
@@ -35,3 +37,40 @@ h1{
     border: none;
     border-radius: 5px;
 }
+/* top-section end  */
+
+/* Card Section Start */
+.my-mission{
+    text-align: center; 
+    margin-bottom: 100px;
+ }
+.card-section{
+    display: flex;
+    justify-content: space-around;
+    
+   
+}
+.card{
+    width: 20%;
+  border-radius: 8px;
+  box-shadow: 4px 4px 12px gray;
+  padding: 20px;
+}
+.card-img img{
+    width: 40%;
+    
+}
+.card-info{
+    align-items: center;
+}
+.Mission{
+    background: rgb(248, 213, 203);
+}
+.Vission{
+    background: rgb(227, 245, 198);
+}
+.Goals{
+    background: rgb(243, 234, 154);
+}
+
+/* Card Section End */
