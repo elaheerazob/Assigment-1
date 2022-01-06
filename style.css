@@ -87,7 +87,7 @@ h1{
     display: flex;
     justify-content: left;
     align-items: center;
-    margin: 0 5% 5% 5%;
+    margin: 0 5% 0 5%;
 }
 .develop-bg{
     background-image: url(images/shapes/shape-1.png);
@@ -110,7 +110,7 @@ h1{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 15%;
-    background-position: bottom 50px right 10px;
+    background-position: bottom 0 right 30px;
 }
 .project-img img{
     width: 60%;
@@ -120,11 +120,11 @@ h1{
 /* lest section Start */
 .business{
     display: flex;
-    margin: 0 5% 0 5%;
+    margin: 5%  0 0 0;
     }
 .cv-width{
     width: 50%;
-    padding: 20px;
+    padding: 40px;
 }
 .last-cv{
     
@@ -139,13 +139,11 @@ h1{
 .email input{
     border: 3px solid rgb(241, 76, 76);
     font-size: 25px;
-    padding: 15px;
+    padding: 12px;
     border-radius: 4px;
     margin-bottom: 20px;
 }
-#input-area{
-    
-}
+
 /* lest section End */
 
 /* footer start */
