@@ -146,5 +146,27 @@ h1{
 #input-area{
     
 }
-
 /* lest section End */
+
+/* footer start */
+footer{
+    margin-top: 50px;
+    background: #000;
+    text-align: center;
+    padding: 40px;
+    
+}
+.fooer-section{
+    color: #fff;
+    
+}
+.fooer-section p{
+    
+    color: #fff;
+    text-align: center;
+}
+.footer-p{
+    margin-bottom: 40px;
+}
+/* footer end */
+
