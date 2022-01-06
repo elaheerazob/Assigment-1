@@ -83,10 +83,11 @@ h1{
 
 /* #rd section start */
 .develop-section{
+   
     display: flex;
     justify-content: left;
     align-items: center;
-    margin: 0 5% 0 5%;
+    margin: 0 5% 5% 5%;
 }
 .develop-bg{
     background-image: url(images/shapes/shape-1.png);
@@ -103,3 +104,16 @@ h1{
     margin-right: 30px;
 }
 /* #rd section End */
+
+/* $th section start */
+.Know-bg{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: bottom 50px right 10px;
+}
+.project-img img{
+    width: 60%;
+    margin-left: 150px;
+}
+/* $th section End */
